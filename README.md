@@ -1,5 +1,5 @@
 # drive-insight
-A cloud driven app for end users to track vehicle stats and optimize their usage.
+A cloud driven app for end users to track and compare vehicle stats and optimize their usage.
 
 ## Team
 
@@ -9,4 +9,6 @@ A cloud driven app for end users to track vehicle stats and optimize their usage
 - 
 
 ## Project Report
-https://docs.google.com/document/d/1s4Hdmaj5co52sia-bZdjCMx5s3mD3k1zKoS_dU_s0UM/edit
+
+[Cloud version](https://docs.google.com/document/d/1s4Hdmaj5co52sia-bZdjCMx5s3mD3k1zKoS_dU_s0UM/edit)
+[Local version](./reports/Report_editable.docx)
